@@ -1,12 +1,12 @@
 
-MoveMapButMarkerFixedInCenter
+Move Map But Marker Fixed In Center
 =========
 
-## MoveMapButMarkerFixedInCenter.
+## Move Map But Marker Fixed In Center.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/MoveMapButMarkerFixedInCenter/blob/master/Screens/1.png)]
+![](https://github.com/pawankv89/MoveMapButMarkerFixedInCenter/blob/master/Screens/1.png)
 
 ## Usage
 ------------
